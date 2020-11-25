@@ -5,12 +5,11 @@ My name is Muhammad Yassar Farooq & I'm a Full Stack Developer
 
 ## 🔧 Technologies & Tools
 ![](https://img.shields.io/badge/OS-Linux-informational?style=color=2bbc8a)
-![](https://img.shields.io/badge/OS-Windows?style=color=2bbc8a)
+![](https://img.shields.io/badge/OS-Window-informational?style=color=2bbc8a)
 ![](https://img.shields.io/badge/Code-Python-informational?style=color=2bbc8a)
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=color=2bbc8a)
-![](https://img.shields.io/badge/Code-NodeJs?style=color=2bbc8a)
-![](https://img.shields.io/badge/Code-NestJs?style=color=2bbc8a)
-![](https://img.shields.io/badge/Code-JavaScript?style=color=2bbc8a)
+![](https://img.shields.io/badge/Code-NodeJs-informational?style=color=2bbc8a)
+![](https://img.shields.io/badge/Code-NestJs-informational?style=color=2bbc8a)
 ![](https://img.shields.io/badge/Shell-Bash-informational?style=color=2bbc8a)
 ![](https://img.shields.io/badge/Tools-PostgreSQL-informational?style=color=2bbc8a)
 
