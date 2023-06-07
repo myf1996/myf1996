@@ -33,10 +33,6 @@ A software engineer with ~5 years of experience, specializing in backend develop
 &nbsp;
 &nbsp;
 &nbsp;
-&nbsp;
-&nbsp;
-&nbsp;
-&nbsp;
 <a href="https://github.com/myf1996/myf1996">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=myf1996&layout=compact&theme=github_dark&langs_count=8" alt="Yassar Farooq GitHub Top Language" />
 </a>
