@@ -1,7 +1,7 @@
 
 ### Hi there 👋
 
-A software engineer with ~5 years of experience, specializing in backend development and DevOps. Currently, involved in healthcare projects handling backend and cloud infrastructure with automated deployment using TravisCI and AWS Terraform. Also, experienced in working on eCommerce, reservation systems, and LMS projects. With a proven track record of delivering complex projects effectively and an ability to work with cutting-edge technologies, this software engineer is a valuable asset to any organization.
+As a Software Engineer with 5 years of experience, currently focusing in backend development and DevOps. Currently, involved in healthcare & EdTech projects where I oversee the backend operations and cloud infrastructure. I have extensive experience in automated deployment utilizing tools and services such as AWS, TravisCI, and Terraform. Addditionally I have experience in working on eCommerce, reservation systems, LMS, and payment gateway integration. With a successful history of delivering complex projects efficiently and a proficiency in working with advanced technologies.
 
 ## 🔧 Technologies & Tools
 ![](https://img.shields.io/badge/OS-Linux-informational?style=color=2bbc8a)
